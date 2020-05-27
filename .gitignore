@@ -1,0 +1,15 @@
+# dependencies
+node_modules/
+
+#build
+public/
+
+# logs
+yarn-error.log
+npm-debug.log
+lerna-debug.log
+local.log
+
+# ide
+.idea
+*.sublime-*
